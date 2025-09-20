@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "210027837669",
+    "project_id": "ventaexpress-e76da",
+    "storage_bucket": "ventaexpress-e76da.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210027837669:android:9113d8625ce58e276f7c0c",
+        "android_client_info": {
+          "package_name": "com.example.ventaexpressropa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI0Su5KwSijQqRTs6lhguVSUhaqf5Y9KQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

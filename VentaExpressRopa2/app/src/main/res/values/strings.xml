@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VentaExpressRopa</string>
+
+
+    <string name="facebook_app_id">1097807695816394</string>
+    <string name="fb_login_protocol_scheme">fb1097807695816394</string>
+    <string name="facebook_client_token">a6f6f1f1a22f9689efef08aaa22d860f</string>
+
+
+</resources>
